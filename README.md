@@ -1,2 +1,2 @@
 # Demos
-Demonstrations programs of Mechatronic Beings.
+Demonstration programs of Mechatronic Beings.
